@@ -67,6 +67,6 @@ This dashboard answers 14 important business questions using Excel Pivot Tables:
 
 🧠 Author
 Janet Ezekiel
-[LinkedIn Profile]()
-Data Analyst | Excel | Power BI | SQL | Python
+[LinkedIn Profile](https://www.linkedin.com/in/janet-ezekiel-1183a0372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Data Analyst | Excel | Power BI | SQL
 

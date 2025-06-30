@@ -1,5 +1,5 @@
 # Amazon-Product-Data-Analysis
-This project analyzes a dataset of Amazon-listed products using Microsoft Excel. It showcases how Excel pivot tables, calculated columns, charts, and dashboards can generate valuable business insights around product ratings, pricing, discounts, and customer reviews.
+
 # 📦 Amazon Product Data Analysis – Excel Dashboard Project
 
 This project analyzes a dataset of Amazon-listed products using Microsoft Excel. It showcases how Excel pivot tables, calculated columns, charts, and dashboards can generate valuable business insights around product ratings, pricing, discounts, and customer reviews.

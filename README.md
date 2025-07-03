@@ -59,6 +59,19 @@ This dashboard answers 14 important business questions using Excel Pivot Tables:
 |-------------|------------------|------------------|
 | - Total Reviews <br> - Avg Rating <br> - Revenue Estimate | - Rating Distribution <br> - Discounts by Category <br> - Top Reviewed Products | - Category Slicers <br> - Price Buckets <br> - Ratings Filters |
 
+## 📊 Project Screenshots
+
+![image](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/main/DSN%20Overview.jpg?raw=true)
+
+---
+
+![image](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/main/Discount%20Dashboard.jpg?raw=true)
+
+---
+
+![image](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/main/Rating%20and%20Review.jpg?raw=true)
+
+
 ---
 
 ## 🛠️ How to Use

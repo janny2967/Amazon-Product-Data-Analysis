@@ -81,7 +81,7 @@ This dashboard answers 14 important business questions using Excel Pivot Tables:
 ---
 
 ## 📁 Amazon Dashboard User Guide PDF
-[Download Dashboard User Guide Here]()
+[Download Dashboard User Guide Here](📘 Amazon Excel Dashboard Project.pdf)
 
 
 ---

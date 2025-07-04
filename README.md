@@ -75,7 +75,7 @@ This dashboard answers 14 important business questions using Excel Pivot Tables:
 ---
 
 ## 📁 Amazon Dashboard Dataset
-[Get Cleaned Dataset Here]()
+[Get Cleaned Dataset Here](https://github.com/janny2967/Amazon-Product-Data-Analysis/blob/512209d8cb7477a9ac3c83b0b7af45bf06844ed5/Amazon%20Case%20Study%201.xlsx)
 
 
 ---

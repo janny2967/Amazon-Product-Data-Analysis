@@ -74,8 +74,16 @@ This dashboard answers 14 important business questions using Excel Pivot Tables:
 
 ---
 
-## 🛠️ Amazon Dashboard Dataset
+## 📁 Amazon Dashboard Dataset
 [Get Cleaned Dataset Here]()
+
+
+---
+
+## 📁 Amazon Dashboard User Guide PDF
+[Download Dashboard User Guide Here]()
+
+
 ---
 
 ## 🛠️ How to Use
